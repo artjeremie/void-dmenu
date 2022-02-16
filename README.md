@@ -1,7 +1,7 @@
 # My dwm build for Voidlinux
 ---
 
-[dmenu](https://tools.suckless.org/dmenu/)
+[dmenu 5.1](https://tools.suckless.org/dmenu/)
 
 ### Installation
 
